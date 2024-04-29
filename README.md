@@ -1,6 +1,6 @@
 # jwt-decoder
 
-tauriを使ってJWTをデコードするツールを作ってみた
+tauriを使ってJWTをデコードするGUIツールを作ってみた
 
 ## ビルド方法
 ```bash
